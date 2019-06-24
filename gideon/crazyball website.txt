@@ -1,0 +1,13 @@
+<html>
+	<head> 
+	<title> crazyball website </website>
+	</head>
+		<style>
+		#product { font-color: blue
+		</style>
+		
+<body>
+	<h1 id="product"> Crazy Ball </h1>
+
+</body>
+</html>
